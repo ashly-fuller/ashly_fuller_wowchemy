@@ -28,13 +28,13 @@ education:
   courses:
   - course: PhD in Security and Crime Science
     institution: University College London
-    year: 2021-present
+    year: Present
   - course: MSc in Comparative Social Policy
     institution: University of Oxford
-    year: 2019-2020
+    year: 2020
   - course: BSc in Social Sciences
     institution: University College London
-    year: 2016-2019
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,8 +73,7 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-> It is easy to oversimplify history. However, if there is one predominant factor underlying economic and social change over the past two centuries, it is surely the advancement of technology. 
-Carl Benedikt Frey
+> "It is easy to oversimplify history. However, if there is one predominant factor underlying economic and social change over the past two centuries, it is surely the advancement of technology." Carl Benedikt Frey
 
 I am a first year PhD student at the Dawes Centre for Future Crime based within the Department of Security and Crime Science at UCL.
 
