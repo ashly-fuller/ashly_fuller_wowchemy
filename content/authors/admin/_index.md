@@ -6,7 +6,7 @@ title: Ashly Fuller
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Security and Crime Science
+role: PhD Student in Crime Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
